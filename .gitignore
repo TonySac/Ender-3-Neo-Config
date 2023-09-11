@@ -1,0 +1,11 @@
+# General files to ignore
+._*
+._.*
+.DS_Store
+
+#Klipper ignores
+*.bkp
+*.*.bkp
+*.conf
+printer*
+!printer.cfg
