@@ -9,3 +9,5 @@
 *.conf
 printer*
 !printer.cfg
+mainsail.cfg
+fluidd.cfg
