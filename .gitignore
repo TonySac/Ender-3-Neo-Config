@@ -6,7 +6,6 @@
 #Klipper ignores
 *.bkp
 *.*.bkp
-*.conf
 printer*
 !printer.cfg
 mainsail.cfg

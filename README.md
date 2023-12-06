@@ -1,15 +1,28 @@
-# Klipper Configurations for my Ender 3 Neo
+# Klipper Configuration for my Ender 3 Neo
 
 The current configuration files for my Ender 3 Neo.
 
-:warning: This is a working repo. Meaning I'm constantly tinkering with this configuration.
+:construction: This is a working repo. Meaning both this configuration works and I'm constantly working on it. :construction:
 
-I've broken out some macros into a seperate file.
+Previously hosted on a Raspberry Pi 4, now moved to an [Inovato Quadra](https://inovato.com).
 
-Klipper is hosted on a Raspberry Pi 4B. The GPIO is used for LED control, input shaping, and some temerpature sensing. 
+Some features inlcude:
+* Input shaping
+* Pressure advance
+* Temperature monitoring
+* KAMP add on
 
-The printer is currenty running on a BTT SKR Mini E3 v3 with a CR Touch configured. 
+Current hardware:
+* Ender 3 Neo
+* CR Touch
+* BTT SKR Mini E3 v3
+
+Future plans:
+* Clean up configuration files
+* Advanced macros
+* Include slicer profiles
+* Switchwire conversion
 
 Feel free to reference this as a starting point but it is not reccomended to copy/paste these as is.
 
-I've also included the last working configuration used for Klipper on my Creality v4.2.2 mainboard.
+For reference, I've also included my last working Klipper configuration for a Creality v4.2.2 mainboard.
