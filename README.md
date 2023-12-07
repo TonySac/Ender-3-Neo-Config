@@ -2,7 +2,7 @@
 
 The current configuration files for my Ender 3 Neo.
 
-:construction: This is a working repo. Meaning both this configuration works and I'm constantly working on it. :construction:
+🚧 This is a working repo. Meaning both this configuration works and I'm constantly working on it. 🚧
 
 Previously hosted on a Raspberry Pi 4, now moved to an [Inovato Quadra](https://inovato.com).
 
