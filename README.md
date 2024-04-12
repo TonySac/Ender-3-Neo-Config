@@ -1,8 +1,8 @@
 # Klipper Configuration for my Ender 3 Neo
 
-The current configuration files for my Ender 3 Neo.
+⚠️ Depricated ⚠️ I have not updated this repo with any changes to my config or hardware since Dec 2023. As of March 2024, I have converted this printer into an [Ender 3 Next Generation](https://www.printables.com/model/469280-ender-3-ng-corexy-beta). My build log can be found [here](https://e3nglog.themakermedic.com).
 
-🚧 This is a working repo. Meaning both this configuration works and I'm constantly working on it. 🚧
+The previous configuration files for my Ender 3 Neo.
 
 Previously hosted on a Raspberry Pi 4, now moved to an [Inovato Quadra](https://inovato.com).
 
